@@ -21,17 +21,20 @@ hero:
       text: 生活
       link: /docs/🌈生活/
 features:
-  - title: 🛠️工具 > index
+  - title: 💡技术 > Hello-World
     details: '最后修改: 刚刚'
+    link: /docs/💡技术/Hello-World
+  - title: 🛠️工具 > index
+    details: '最后修改: 10分钟前'
     link: /docs/🛠️工具/index
   - title: 💼工作 > index
-    details: '最后修改: 刚刚'
+    details: '最后修改: 10分钟前'
     link: /docs/💼工作/index
   - title: 💡技术 > index
-    details: '最后修改: 5分钟前'
+    details: '最后修改: 10分钟前'
     link: /docs/💡技术/index
   - title: 🌈生活 > index
-    details: '最后修改: 5分钟前'
+    details: '最后修改: 11分钟前'
     link: /docs/🌈生活/index
   - title: editor
     details: '最后修改: 2025-06-05 22:01:04'

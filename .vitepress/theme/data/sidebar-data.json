@@ -2,7 +2,12 @@
   "/docs/💡技术/": [
     {
       "text": "💡技术",
-      "items": []
+      "items": [
+        {
+          "text": "Hello-World",
+          "link": "/docs/💡技术/Hello-World"
+        }
+      ]
     }
   ],
   "/docs/💼工作/": [

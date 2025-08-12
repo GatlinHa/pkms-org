@@ -1,5 +1,7 @@
 # pkms
 个人知识管理系统
+![alt text](image.png)
+![alt text](image-1.png)
 
 ## 依赖
 - nodejs
